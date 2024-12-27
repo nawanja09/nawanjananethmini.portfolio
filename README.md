@@ -4,7 +4,7 @@
 
 Welcome to my portfolio! This portfolio shows my skills, projects, and experiences as a web developer.
 
-### Live App: (https://github.com/nawanja09/nawanjananethmini.portfoio)<br><br>
+### Live App: https://nawanjananethmini-me-portfolio.vercel.app/<br><br>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -43,7 +43,7 @@ To run this portfolio locally, follow these steps:
 5. Open your browser and visit: `http://localhost:3000`
 
 ## Deployment
-The application is deployed on the GitHub pages. Visit [here](https://github.com/nawanja09/nawanjananethmini.portfoio) to access the live application.
+The application is deployed on the GitHub pages. Visit [here](https://nawanjananethmini-me-portfolio.vercel.app/)) to access the live application.
 
 ## License
 This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
